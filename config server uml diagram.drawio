@@ -1,0 +1,90 @@
+<mxfile host="Electron" modified="2023-12-15T06:19:52.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="3CH9Neiw4D2v1NUYEUgv" version="22.1.2" type="device">
+  <diagram name="Page-1" id="4p317CxYMfwnELRVpr0L">
+    <mxGraphModel dx="1098" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22" y="110" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-2" value="default_branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-3" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;" edge="1" target="9N8b2bliUjjF8Nir-0CK-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-4" value="customer_one" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;" edge="1" target="9N8b2bliUjjF8Nir-0CK-4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-6" value="customer_two" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;" edge="1" target="9N8b2bliUjjF8Nir-0CK-6" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-9" value="customer_three" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;" edge="1" target="9N8b2bliUjjF8Nir-0CK-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-11" value="soteria-financials-dev.yml&lt;br&gt;soteria-refdata-dev.yml&lt;br&gt;soteria-services-dev.yml&lt;br&gt;soteria-financials-qa.yml&lt;br&gt;soteria-refdata-qa.yml&lt;br&gt;soteria-services-qa.yml&lt;br&gt;soteria-financials-prod.yml&lt;br&gt;soteria-refdata-prod.yml&lt;br&gt;soteria-services-prod.yml" style="dashed=1;rounded=1;absoluteArcSize=1;arcSize=20;html=1;verticalAlign=top;align=left;spacingTop=5;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-12" value="soteria-financials.yml&lt;br&gt;soteria-refdata.yml&lt;br&gt;soteria-services.yml" style="dashed=1;rounded=1;absoluteArcSize=1;arcSize=20;html=1;verticalAlign=top;align=left;spacingTop=5;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-13" value="soteria-financials.yml&lt;br&gt;soteria-refdata.yml&lt;br&gt;soteria-services.yml" style="dashed=1;rounded=1;absoluteArcSize=1;arcSize=20;html=1;verticalAlign=top;align=left;spacingTop=5;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-14" value="soteria-financials.yml&lt;br&gt;soteria-refdata.yml&lt;br&gt;soteria-services.yml" style="dashed=1;rounded=1;absoluteArcSize=1;arcSize=20;html=1;verticalAlign=top;align=left;spacingTop=5;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="620" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-16" value="config-values" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="143" y="452" width="168" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-18" value="config-server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141.5" y="260" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-21" value="soteria-financials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-22" value="soteria-refdata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-23" value="soteria-services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9N8b2bliUjjF8Nir-0CK-16" target="9N8b2bliUjjF8Nir-0CK-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="450" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9N8b2bliUjjF8Nir-0CK-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9N8b2bliUjjF8Nir-0CK-18" target="9N8b2bliUjjF8Nir-0CK-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
